@@ -1,6 +1,6 @@
 package com.dahua1
 
-
+//写的很好
 /**
   * scala中有方法和函数
   * 方法：method。
